@@ -22,3 +22,6 @@ The list operations are handled through separate functions to promote modularity
 Dynamic memory (malloc and free) is used to manage memory efficiently.
 
 The code is structured to handle empty lists, single-element lists, and deletion of head/middle/tail nodes robustly.
+
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/61438fff-9e1a-4d79-b7ec-e324e05f8e39)
